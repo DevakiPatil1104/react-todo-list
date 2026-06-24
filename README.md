@@ -1,9 +1,13 @@
-# React To-Do List
+# ListTaskMaster Pro
 
-A simple and interactive **To-Do List web application** built using React.  
-This application allows users to manage daily tasks efficiently by adding and deleting tasks dynamically.
+A high-performance, responsive task management application designed to help users track and prioritize daily objectives with ease.
 
----
+## About the Project
+
+TaskMaster Pro is a refined task management utility built to demonstrate proficiency in React's component lifecycle, state management, and modern CSS practices.
+
+Unlike standard tutorials, this application focuses on data persistence and user experience, featuring real-time updates and seamless state management. It serves as a testament to clean, maintainable code architecture.
+
 
 ## Features
 
@@ -13,17 +17,17 @@ This application allows users to manage daily tasks efficiently by adding and de
 - Simple and clean user interface
 - Fast development using Vite
 
----
 
 ## Tech Stack
 
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Vite
+-Frontend: React.js (Vite)
 
----
+-Language: JavaScript (ES6+)
+
+-Styling: CSS3 (Modern Flexbox/Grid)
+
+-Build Tool: Vite
+
 
 ## Project Structure
 
@@ -37,18 +41,7 @@ src
 public
 index.html
 
----
 
-## 📸 Demo
+## Interface
 
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/3e9a42b2-da6e-4f5c-a7ce-e6607b2a9785" />
-
-
----
-
-## Future Improvements
-
-- Add task editing functionality
-- Add task completion checkbox
-- Store tasks using Local Storage
-- Improve UI design
