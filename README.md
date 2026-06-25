@@ -1,10 +1,10 @@
-# ListTaskMaster Pro
+# ListTaskMaster 
 
 A high-performance, responsive task management application designed to help users track and prioritize daily objectives with ease.
 
 ## About the Project
 
-TaskMaster Pro is a refined task management utility built to demonstrate proficiency in React's component lifecycle, state management, and modern CSS practices.
+TaskMaster is a refined task management utility built to demonstrate proficiency in React's component lifecycle, state management, and modern CSS practices.
 
 Unlike standard tutorials, this application focuses on data persistence and user experience, featuring real-time updates and seamless state management. It serves as a testament to clean, maintainable code architecture.
 
